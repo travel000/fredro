@@ -1,3 +1,11 @@
 {
-    "url" : "http://95.216.100.170:8080/"
+  "url": "http://95.216.100.170:8080/",
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-language": "en-En,ru;q=0.9",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+  },
+  "cookies": [
+    "session-id=131-8094816-4978430; session-id-time=2082787201l; i18n-prefs=USD; ubid-main=131-1502088-7085869; session-token=W+42b2h485+XMEwXO9TEs7AFJVp9xBCB+TRfInMfq7KYRgrVmbzflQEaHm391Jscy5zzRqstBflVVNMu8T6uUwpdkUSTvW1t0IDqTM7AdEGotsTAa1xL6NCG3oVQ7wzXReDyVddttIHl6s5se++Vl8EE2mT9o91THrPromhePjJCyo25sa79iBV2QyX1zlBQKUAZqc8tZVOe867TyV+aFSf8Sgtqgo6/8YTB0gSm0Ph/V8dLeDXO4rIjEhWOcbNj3IlYUfEmvIu1egoA1AdYSDBcf2xWH3PKhfmhKcaymPj9qux/EMLLqHt3drCZVcf7ByHMcdIKYBpLac6qL4ySAJFBS6fbXp5m; csm-hit=tb:s-D0NXE32H7ZB19CR45YQY|1728634006257&t:1728634006257&adb:adblk_no"
+  ]
 }
